@@ -1,6 +1,6 @@
 # PONG avec UNITY
 
-<img src="https://unity3d.com/files/images/ogimg.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png">
 
 ## Les contrôles
 - Les touches de la barre gauche : **Z** et **S** 
@@ -10,8 +10,8 @@
 ### Ball.cs
 
 - Start() : fonction de base de Unity qui est appelée au lancement du jeu
-- Reset() : Replace la balle au milieu
-- Launch() : Fait le lancé de ball dans une direction aléatoire
+- Reset() : replace la balle au milieu
+- Launch() : fait le lancé de ball dans une direction aléatoire
 
 ### Paddle.cs
 
